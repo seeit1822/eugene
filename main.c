@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include "lines.h"
 
 int main()
 {
-	puts("Hello, world!");
+	puts(WELCOMING_MESSAGE);
 	return 0;
 }
 
