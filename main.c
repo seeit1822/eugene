@@ -2,7 +2,7 @@
 
 int main()
 {
-	puts("Hello, world!");
+	puts("Welcome, user!");
 	return 0;
 }
 
