@@ -6,4 +6,3 @@ int main()
 	puts(WELCOMING_MESSAGE);
 	return 0;
 }
-
